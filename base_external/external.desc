@@ -1,0 +1,5 @@
+#hello world example
+#name: project_base
+#description: Base customization for project
+name: project_base
+description: Base customization for project
