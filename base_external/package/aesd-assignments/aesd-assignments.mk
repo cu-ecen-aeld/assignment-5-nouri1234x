@@ -7,7 +7,7 @@
 
 #TODO: Fill up the contents below in order to reference your assignment 3 git contents
 # to be renewed if new commit for path modification requested by the instructor
-AESD_ASSIGNMENTS_VERSION = 3cd9cd2b446cadbbe8e464112d249ecb9674ff36
+AESD_ASSIGNMENTS_VERSION = f4cd62199734415c7c3599cb5625db9113dfe62a
 # Note: Be sure to reference the *ssh* repository URL here (not https) to work properly
 # with ssh keys and the automated build/test system.
 # Your site should start with git@github.com:
